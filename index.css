@@ -1,0 +1,259 @@
+#box {
+    position: absolute;
+    width: 536px;
+    height: 551px;
+    left: 414px;
+    top: 160px;
+
+    background: #FFFFFF;
+    border-radius: 5px;
+    border: 1px solid #000000;
+}
+
+#input-item{
+    position: absolute;
+    top: 29px;
+    left: 21px;
+    width: 493px;
+    height: 88px;
+
+
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    font-size: 50px;
+    cursor:none;
+}
+
+body {
+    background: black;
+}
+
+#btn1 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 55px;
+    height: 49px;
+    left: 28px;
+    top: 241px;
+
+    background: #FFFFFF;
+    border: 1px solid #000000;
+}
+
+#btn2 {
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 55px;
+    height: 49px;
+    left: 119px;
+    top: 241px;
+
+    background: #FFFFFF;
+    border: 1px solid #000000;
+
+}
+
+#btn3 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 55px;
+    height: 49px;
+    left: 204px;
+    top: 241px;
+
+    background: #FFFFFF;
+    border: 1px solid #000000;
+
+}
+
+#btn4 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 55px;
+    height: 49px;
+    left: 28px;
+    top: 315px;
+
+    background: #FFFFFF;
+    border: 1px solid #000000;
+}
+
+#btn5 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 55px;
+    height: 49px;
+    left: 116px;
+    top: 315px;
+
+    background: #FFFFFF;
+    border: 1px solid #000000;
+}
+
+#btn6 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 55px;
+    height: 49px;
+    left: 204px;
+    top: 315px;
+
+    background: #FFFFFF;
+    border: 1px solid #000000;
+}
+
+#btn7 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 55px;
+    height: 49px;
+    left: 28px;
+    top: 389px;
+
+    background: #FFFFFF;
+    border: 1px solid #000000;
+
+}
+
+#btn8 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 55px;
+    height: 49px;
+    left: 116px;
+    top: 389px;
+
+    background: #FFFFFF;
+    border: 1px solid #000000;
+}
+
+#btn9 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 55px;
+    height: 49px;
+    left: 204px;
+    top: 389px;
+
+    background: #FFFFFF;
+    border: 1px solid #000000;
+}
+
+#btn10 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 55px;
+    height: 49px;
+    left: 28px;
+    top: 463px;
+
+    background: #FFFFFF;
+    border: 1px solid #000000;
+}
+
+#btn11 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 55px;
+    height: 49px;
+    left: 116px;
+    top: 463px;
+
+    background: #FFFFFF;
+    border: 1px solid #000000;
+}
+
+#btn12 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 55px;
+    height: 49px;
+    left: 204px;
+    top: 463px;
+
+    background: #FFFFFF;
+    border: 1px solid #000000;
+}
+
+#plus-btn {
+    position: absolute;
+    width: 103px;
+    height: 56px;
+    left: 21px;
+    top: 152px;
+
+    background: #D9D9D9;
+    font-size: 20px;
+}
+
+#minus-btn {
+    position: absolute;
+    width: 94px;
+    height: 57px;
+    left: 154px;
+    top: 152px;
+
+    background: #D9D9D9;
+    font-size: 20px;
+}
+
+#multiply-btn {
+    position: absolute;
+    width: 103px;
+    height: 56px;
+    left: 278px;
+    top: 152px;
+    font-size: 20px;
+
+    background: #D9D9D9;
+}
+
+#divide-btn {
+    position: absolute;
+    width: 103px;
+    height: 56px;
+    left: 411px;
+    top: 152px;
+    font-size: 20px;
+
+    background: #D9D9D9;
+}
+
+#clear-btn {
+    position: absolute;
+    width: 103px;
+    height: 271px;
+    left: 282px;
+    top: 241px;
+    font-size: 30px;
+
+    background: #F73C3C;
+}
+
+#result-btn {
+    position: absolute;
+    width: 103px;
+    height: 271px;
+    left: 414px;
+    top: 241px;
+    font-size: 30px;
+
+    background: #3098E3;
+
+}
+#heading{
+    color: white;
+}
